@@ -16,6 +16,13 @@ SQL queries were performed to answer specific questions about the last semeste. 
 
 
 ## Interactive Report (Power BI)
+Aspects of interest:
+- Monthly financial metrics and KPI's
+- Market Analysis
+- Analysis by Region
+- Analysis of Returned Products
+- Clusters of regions and categories
+
 https://app.powerbi.com/view?r=eyJrIjoiYWUwMDVjM2EtZmNmYy00YjNhLWE5ZmMtODNjZmI0N2UxZjliIiwidCI6IjZmMDM0OGYyLWU0OTgtNDVjOS04NGY0LWM2ZDgxZGNmZmRmZSIsImMiOjR9
 
 [<img src="https://github.com/user-attachments/assets/2195aa2f-3555-40fb-89b2-5db0fd262fbf">](https://app.powerbi.com/view?r=eyJrIjoiYWUwMDVjM2EtZmNmYy00YjNhLWE5ZmMtODNjZmI0N2UxZjliIiwidCI6IjZmMDM0OGYyLWU0OTgtNDVjOS04NGY0LWM2ZDgxZGNmZmRmZSIsImMiOjR9)
