@@ -28,11 +28,11 @@ Specific SQL queries were performed to answer the following questions about the 
 - Are the top products by sales the same as the top products by profit?
 - Are the top cities by sales the same as the top cities by profit?
 
-In addition to the creation of the tables, Claude AI was used to support the discovery of insights and analysis of the queries.\
+In addition to the creation of the tables, Claude AI was used to support the discovery of insights and analysis of the queries.
 
 
 ### Which products have the best profit margin by subcategory?
-The following table shows the products with the best profit margins by subcategory.\
+The following table shows the products with the best profit margins by subcategory.
 
 |category       |subcategory|id_product |product                                                                              |profit_margin|
 |---------------|-----------|-----------|-------------------------------------------------------------------------------------|-------------|
@@ -56,11 +56,11 @@ The following table shows the products with the best profit margins by subcatego
 |Technology     |Machines   |TEC-MA-4594|Hewlett-Packard 300S Scientific Calculator                                           |46.00        |
 |Technology     |Phones     |TEC-PH-5825|Samsung Headset, Full Size                                                           |49.98        |
 
-Note that in the Office Supplies category, several subcategories have products with a 50% profit margin, which is the highest in the dataset.\
+Note that in the Office Supplies category, several subcategories have products with a 50% profit margin, which is the highest in the dataset.
 
 
 ### Which are the customers that spends the most for each business segment?
-The following table shows the customers that spends the most for each business segment.\
+The following table shows the customers that spends the most for each business segment.
 
 |segment    |sales_rank|id_customer |customer         |country      |sales|
 |-----------|----------|------------|-----------------|-------------|-----|
@@ -92,7 +92,7 @@ With regard to the question of whether the best-selling products are the ones th
 - The Technology category also shows high similarity, with all three products appearing in both lists, albeit in different orders.
 - The Furniture category shows no overlap between top products by sales and profit, indicating that the products with the highest sales are not necessarily the most profitable in this category.
 
-In conclusion, the top products by sales are partially the same as the top products by profit, with the degree of similarity varying by category. The Technology and Office Supplies categories show significant overlap, while the Furniture category shows no overlap at all. This suggests that in some categories (like Technology and Office Supplies), high sales volume often correlates with high profitability, while in others (like Furniture), there might be factors such as higher margins on certain items that don't necessarily have the highest sales volumes.\
+In conclusion, the top products by sales are partially the same as the top products by profit, with the degree of similarity varying by category. The Technology and Office Supplies categories show significant overlap, while the Furniture category shows no overlap at all. This suggests that in some categories (like Technology and Office Supplies), high sales volume often correlates with high profitability, while in others (like Furniture), there might be factors such as higher margins on certain items that don't necessarily have the highest sales volumes.
 
 
 ### Are the top cities by sales the same as the top cities by profit?
