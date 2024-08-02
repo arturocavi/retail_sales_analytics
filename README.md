@@ -4,7 +4,7 @@ Global store retail sales analytics using SQL, Claude AI and Power BI
 
 ## Overview
 In order to analyze the global sales of a retail chain of office and stationery items, an interactive report was created in Power BI.\
-SQL queries were performed to answer specific questions about the last semeste. In addition to the creation of the tables, Claude AI was used to support the discovery of insights and analysis of the queries.
+SQL queries were performed to answer specific questions about the last semester. In addition to the creation of the tables, Claude AI was used to support the discovery of insights and analysis of the queries.
 
 
 ## Technologies Used
